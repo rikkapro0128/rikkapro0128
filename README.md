@@ -7,8 +7,8 @@ class Profile {
   }
 }
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rikkapro0128&theme=modern-lilac2&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkapro0128&layout=compact&custom_title=V%C3%B5%20c%C3%B4ng%20hay%20d%C3%B9ng&langs_count=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rikkapro0128&theme=ambient_gradient&locale=vi&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkapro0128&theme=modern-lilac2&layout=compact&custom_title=V%C3%B5%20c%C3%B4ng%20hay%20d%C3%B9ng&langs_count=8)
 
 <!---
 rikkapro0128/rikkapro0128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
