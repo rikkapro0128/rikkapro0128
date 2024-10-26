@@ -2,7 +2,7 @@
 class Profile {
   contructor() {
     this.nickname = "miru"
-    this.age = 22
+    this.age = 23
     this.gender = "male"
   }
 }
